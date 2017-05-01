@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="TourAPICall:jar">
+    <output-path>$PROJECT_DIR$/../TourAPICall/out/artifacts/TourAPICall_jar</output-path>
+    <root id="archive" name="TourAPICall.jar">
+      <element id="module-output" name="TourAPICall" />
+    </root>
+  </artifact>
+</component>
